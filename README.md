@@ -116,6 +116,7 @@ OpenCode is also available as a **[Desktop App (Beta)](https://opencode.ai/downl
 
 | Plugin | Description |
 |:---|:---|
+| [opencode-attention-inbox](https://github.com/YidiDev/opencode-attention-inbox) | Independent OpenCode V2 sidebar inbox for permissions, questions, and successful unread completions; configured in global `cli.json` |
 | [opencode-notificator](https://github.com/panta82/opencode-notificator) | Desktop notifications and sound alerts for OpenCode sessions |
 | [opencode-notifier](https://github.com/mohak34/opencode-notifier) | Desktop notifications for permission, completion, and error events |
 | [opencode-notify](https://github.com/kdcokenny/opencode-notify) | Native OS notifications — know when tasks complete |
