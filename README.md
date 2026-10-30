@@ -97,6 +97,8 @@ OpenCode is also available as a **[Desktop App (Beta)](https://opencode.ai/downl
 
 > Extend OpenCode with community-built plugins. Add them to your `opencode.json` under the `"plugin"` key.
 
+> Installation varies by API generation. V2 CLI-only plugins such as Tab Wrangler use the global `cli.json` `plugins` array instead; follow each plugin's installation guide.
+
 <details>
 <summary><strong>Authentication & Access</strong></summary>
 <br>
@@ -168,6 +170,7 @@ OpenCode is also available as a **[Desktop App (Beta)](https://opencode.ai/downl
 | [opencode-websearch-cited](https://github.com/ghoulr/opencode-websearch-cited) | Native websearch with Google grounded-style citations |
 | [opencode-worktree](https://github.com/kdcokenny/opencode-worktree) | Zero-friction git worktrees for OpenCode |
 | [opencode-scheduler](https://github.com/different-ai/opencode-scheduler) | Schedule recurring jobs with cron syntax |
+| [OpenCode Tab Wrangler](https://github.com/YidiDev/opencode-tab-wrangler) | Independent V2 CLI-only tab housekeeping with preview, configurable idle cleanup, and Corral recovery without deleting sessions (OpenCode 2.1.4+) |
 
 </details>
 
